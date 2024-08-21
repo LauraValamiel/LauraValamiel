@@ -1,10 +1,5 @@
-## Olá, eu sou Vinícius Andrade! 👋
+## Olá, eu sou Laura Valamiel! 👋
 
-<div align="right">
-
-#### Profile in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/ViniciusAndradeCosta/ViniciusAndradeCosta/blob/main/README-us.md)</kbd>
-
-</div>
 
 
 
@@ -29,13 +24,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=LauraValamiel&theme=shadow-purple)](https://git.io/streak-stats)
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraValamiel&layout=compact&langs_count=16&theme=transparent&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraValamiel&layout=compact&langs_count=16&theme=shadow-purple&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"/>
 </p>
   
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraValamiel&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraValamiel&show_icons=true&theme=shadow-purple)
 
 
 <br>
@@ -66,16 +61,10 @@
   <div style="display: inline_block"><br>
     Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e sugestões, me mande uma mensagem 😉
     <br><br>
-    <a href="mailto:anabe.viniciusac.pro@gmail.com">
+    <a href="mailto:anabe.valamiellaura4@gmail.com">
       <img alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/vinicius-andrade-4a4b33250/">
-      <img alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <br><br>
-  </div>
-</div>
-
+    
 
 
 
