@@ -26,17 +26,16 @@
 
 # 📊 Estatísticas no GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LauraValamiel&theme=midnight-purple)](https://git.io/streak-stats)
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LauraValamiel&theme=transparent)](https://git.io/streak-stats)
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraValamiel&layout=compact&langs_count=16&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"/>
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraValamiel&layout=compact&langs_count=16&theme=transparent&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"/>
 </p>
   
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraValamiel&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraValamiel&show_icons=true&theme=transparent)
 
 
 <br>
